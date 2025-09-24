@@ -1,2 +1,21 @@
 # HexSoftwares_Fibonacci_Generator
-A clean and efficient Fibonacci sequence generator built with Python by me.  This project by HexSoftwares explores multiple approaches — iterative, recursive, and optimized —  to generate Fibonacci numbers. Perfect for learning, testing algorithms, and contributing to open-source code experiments.
+
+## Fibonacci Generator
+
+### 📌 Overview
+This is a simple Python program that generates the **Fibonacci sequence** up to a given number of terms.  
+It demonstrates Python fundamentals such as:
+- Functions
+- Loops
+- Lists
+- Basic error handling
+
+### 🚀 How It Works
+- The user is prompted to enter the number of terms.  
+- The program calculates the Fibonacci sequence using iteration.  
+- The sequence is returned as a list and displayed to the user.
+
+### 💻 Example
+```bash
+Enter the number of terms: 7
+Fibonacci sequence: [0, 1, 1, 2, 3, 5, 8]
